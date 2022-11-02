@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/hupe1980/awsrecon/releases/download/v0.0.1/awsrecon_Windows_i386.zip",
+            "bin": [
+                "awsrecon.exe"
+            ],
+            "hash": "8d71142dad1d4cccb27ceffdfb0440de979381bb73a20d05e633114f09f72474"
+        },
+        "64bit": {
+            "url": "https://github.com/hupe1980/awsrecon/releases/download/v0.0.1/awsrecon_Windows_x86_64.zip",
+            "bin": [
+                "awsrecon.exe"
+            ],
+            "hash": "871f8e149f81bc71501c525d9ec7bf4b434b22876aaab812e65b1bf660668ce6"
+        }
+    },
+    "homepage": "https://github.com/hupe1980/awsrecon",
+    "license": "MIT",
+    "description": "AWSrecon is a tool for reconnaissance AWS cloud environments"
+}
