@@ -1,19 +1,19 @@
 {
-    "version": "0.0.11",
+    "version": "0.0.12",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hupe1980/awsrecon/releases/download/v0.0.11/awsrecon_Windows_i386.zip",
+            "url": "https://github.com/hupe1980/awsrecon/releases/download/v0.0.12/awsrecon_Windows_i386.zip",
             "bin": [
                 "awsrecon.exe"
             ],
-            "hash": "e4d8614974e564eb330d7619742aa27a0e01ad4c350ad1c9549a69b2d5fa6450"
+            "hash": "280cb72ccfd55dd5509182e961c2064df3b73748e6634ca76457cb1cd094aa1a"
         },
         "64bit": {
-            "url": "https://github.com/hupe1980/awsrecon/releases/download/v0.0.11/awsrecon_Windows_x86_64.zip",
+            "url": "https://github.com/hupe1980/awsrecon/releases/download/v0.0.12/awsrecon_Windows_x86_64.zip",
             "bin": [
                 "awsrecon.exe"
             ],
-            "hash": "e2dac2fdf87890582b8c440be658b83108092cc0f96af65f89895e660b2645db"
+            "hash": "ed2933bdda1d50514eed4b3ee75853c683caff59ef2c4b0731f06c24ea8d3275"
         }
     },
     "homepage": "https://github.com/hupe1980/awsrecon",
